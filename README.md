@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PHV08
-- 👀 I’m interested in Coding and Developing Discord Bots
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me [Discord] (https://discord.gg/UV22V6fEAv)
+Myself PHV just a normal 17year old guy who likes to code discord bots 
 
+More about me - https://linktr.ee/UNKNOWNPHV
+Discord - https://discord.gg/UV22V6fEAv
+
+Thats it ig....
