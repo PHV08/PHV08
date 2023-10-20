@@ -4,7 +4,7 @@
   </a>
 
 
-  <a href="https://discord.com/users/831934465609302056" target="_blank">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
+  <a href="https://discord.com/users/1066367509965574215" target="_blank">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/1066367509965574215.png"  />
   </a>
 </p>
