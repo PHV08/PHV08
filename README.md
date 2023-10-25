@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PHV08">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&lines=PHV;Developer;JB+Tweaks+Developer;UI/UX+Designer;Frontend+developer;iOS/MacOS+apps+dev;Games+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&lines=Myself+PHV;Developer;JS+Developer;Backend+developer;Games+developer">
   </a>
 
 
