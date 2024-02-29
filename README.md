@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/PHV08">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&lines=Myself+PHV;I'm+a+Developer;Backend+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000
+The hex code&center=true&lines=Myself+PHV;I'm+a+Developer;Backend+developer">
   </a>
 
 
